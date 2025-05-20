@@ -16,6 +16,8 @@ Handling authentication via JWT
 Validating user sessions
 
 Handling errors properly
+![image](https://github.com/user-attachments/assets/465267d6-93cc-410f-819d-518d5659ece9)
+
 
 # Below are the steps to set up and run the project locally, followed by an explanation of what each API endpoint does and the response you can expect.
 
